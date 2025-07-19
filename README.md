@@ -1,22 +1,21 @@
 ## Hi there 👋 I am Alwyn Robinson
 
 ## About Me
--I am a Computer Science and Engineering (CSE) student specializing in Data Science. I am passionate about exploring data to uncover meaningful insights and presenting them through effective visualizations. Currently, I am working on a Python API project.
+I am a Computer Science and Engineering (CSE) student specializing in Data Science. I am passionate about exploring data to uncover meaningful insights and presenting them through effective visualizations. Currently, I am working on a Python API project.
 
 ## Skills
     -Data Analysis
     -Data Visualization
-    -Programming (Python, R, etc.)
+    -Data Handling
     -Statistical Modeling
     -Exploratory Data Analysis (EDA)
+    -Programming (Python, R, Java, Dev C++, Turbo C++ etc.)
     -Python Libraries
-    -Data Handling
 
 ## Projects
     Check out my repositories for various data science projects where I apply my skills to real-world datasets!
 
-Contact
-
+## Contact
 Feel free to connect with me for collaborations or discussions on data science topics. You can reach me via [alwynrobinsonwork@gmail.com] or [[LinkedIn](https://www.linkedin.com/in/alwyn-robinson-a3a3642a0/)].
 
 <!--
