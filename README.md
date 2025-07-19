@@ -1,9 +1,7 @@
-## Hi there 👋
-
-I am Alwyn Robinson
+## Hi there 👋 I am Alwyn Robinson
 
 ## About Me
-    -I am a Computer Science and Engineering (CSE) student specializing in Data Science. I am passionate about exploring data to uncover meaningful insights and presenting them through effective visualizations. Currently, I am working on a Python API project.
+-I am a Computer Science and Engineering (CSE) student specializing in Data Science. I am passionate about exploring data to uncover meaningful insights and presenting them through effective visualizations. Currently, I am working on a Python API project.
 
 ## Skills
     -Data Analysis
